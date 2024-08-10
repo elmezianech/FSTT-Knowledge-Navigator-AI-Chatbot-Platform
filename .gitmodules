@@ -1,0 +1,6 @@
+[submodule "chatbot-frontend"]
+	path = chatbot-frontend
+	url = https://github.com/elmezianech/chatbot-frontend
+[submodule "chatbot-backend"]
+	path = chatbot-backend
+	url = https://github.com/elmezianech/chatbot-backend
